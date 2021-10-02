@@ -1,0 +1,9 @@
+interference_table_loc0 = {0: 0, 1: 0, 2: 0, 3: 0}
+interference_table_loc1 = {0: 0, 1: 1, 2: 0, 3: 1}
+interference_table_loc2 = {0: 0, 1: 0, 2: 1, 3: 1}
+interference_table_loc3 = {0: 0, 1: 1, 2: 1, 3: 1}
+interference_table = [""] * 4
+interference_table[0] = interference_table_loc0
+interference_table[1] = interference_table_loc1
+interference_table[2] = interference_table_loc2
+interference_table[3] = interference_table_loc3
